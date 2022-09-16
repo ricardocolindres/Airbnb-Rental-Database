@@ -1,11 +1,11 @@
-AIRBNB DATABASE
+#Airbnb Rental Database
 
-# airbnb_database
+#Installation Instructions 
 
-Installation Instructions 
 This database was design to support most of the features provided by a service such as Airbnb. A full description of the database’s structure is included alongside an entity relationship model to allow for better navigation and usage of the database. 
 
-Installation Options. 
+#Installation Options. 
+
 1.Restore from backup.
 The database can be restored from the following files included in the “DatabaseBackups” folder: 
 rentals_db_ricardo_colindres_15-09-22_fast
