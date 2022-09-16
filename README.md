@@ -4,7 +4,7 @@
 
 This database was design to support most of the features provided by a service such as Airbnb. A full description of the database’s structure is included alongside an entity relationship model to allow for better navigation and usage of the database. 
 
-<img width="952" alt="login" src="https://user-images.githubusercontent.com/83890387/119277475-2e118a00-bbdd-11eb-946c-3fd64110fcf4.png">
+<img width="952" alt="login" src="https://user-images.githubusercontent.com/83890387/190570856-90b30ae6-9971-485b-8999-58ffcb6d1055.png">
 
 ## Installation Options 
 
