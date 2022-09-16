@@ -1,10 +1,12 @@
-#Airbnb Rental Database
+# Airbnb Rental Database
 
-##Installation Instructions 
+## Installation Instructions 
 
 This database was design to support most of the features provided by a service such as Airbnb. A full description of the database’s structure is included alongside an entity relationship model to allow for better navigation and usage of the database. 
 
-##Installation Options 
+<img width="952" alt="login" src="https://user-images.githubusercontent.com/83890387/119277475-2e118a00-bbdd-11eb-946c-3fd64110fcf4.png">
+
+## Installation Options 
 
 1.Restore from backup
 The database can be restored from the following files included in the “DatabaseBackups” folder: 
@@ -26,7 +28,7 @@ If a clean copy of the database is needed, the SQL commands can be executed in t
 3. Pull Docker Image from Docker Hub
 docker image pull ricardocolindres/airbnb
 
-Replica of an Airbnb Database
+## Replica of an Airbnb Database
 
 Rentals websites are big now. Companies such as Expedia and Bookings have taken over the hotel booking market while other such as Airbnb have a large market cap in private property rentals. This database was designed to support most of the features provided by a service such as Airbnb. The entity-relationship model can be easily scalable to allow for new features. Analogously, these features should easily integrate to the physical model. The database backups, from which the original database can be easily restored, include not just the database but also, thousands of entries of consistent data across all the tables. This allows developers and database managers to construct different queries to explore and test the database. Besides some third-party integrations, this database is ready for deployment in an operational environment. Before diving into the operational aspects of the database, I will briefly review the conceptual model behind this database.
 
